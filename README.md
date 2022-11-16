@@ -2,10 +2,7 @@
 <h3 align="center">A Web Development enthusiast from India</h3>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adviksinghania" alt="adviksinghania" /></a> </p>
-<br>
-
-- 🔭 I’m currently working on [Counselling Cell App,LNMIIT](https://adviksinghania.github.io/shamir-secret-sharing/)
+- 🔭 I’m currently working on [Counselling Cell App,LNMIIT](https://play.google.com/store/apps/details?id=com.ccellapp)
 
 - 🌱 I’m currently learning **DSA, C++, MERN STACK DEVELOPMENT**
 
